@@ -15,7 +15,6 @@ import org.hibernate.query.Query;
 import thanhtrang.online.thanhtrang.HibnateUtils;
 import thanhtrang.online.thanhtrang.Model.Customer;
 import thanhtrang.online.thanhtrang.Model.Other;
-import thanhtrang.online.thanhtrang.Model.Receipt;
 
 /**
  *
